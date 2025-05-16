@@ -17,16 +17,15 @@ Criar um chatbot para atendimento digital via Telegram, utilizando IBM Watson As
 
 ---
 
-## ⚙️ Estrutura do Fluxo
+## 👨‍💻 Integrantes do Projeto
 
-1. **Usuário envia mensagem no Telegram**.
-2. **Node-RED** recebe a mensagem e encaminha ao **Watson Assistant**.
-3. **Watson responde com opção (buttons)**.
-4. Node-RED converte as opções em **botões do Telegram**.
-5. Quando o usuário clica, a escolha é enviada de volta ao Watson, mantendo o contexto.
+- Moisés Waidemann  
+- Gabriel Sbrana  
+- Thiago Mota
 
 ---
 
-## 💬 Exemplo de Interação
+## 🌐 Repositório do Projeto
 
-### Usuário:
+🔗 [Acesse no GitHub](https://github.com/Challenge-1sem-1TDSPH/Challenge-Front.git)
+
