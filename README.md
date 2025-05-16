@@ -27,5 +27,5 @@ Criar um chatbot para atendimento digital via Telegram, utilizando IBM Watson As
 
 ## 🌐 Repositório do Projeto
 
-🔗 [Acesse no GitHub](https://github.com/Challenge-1sem-1TDSPH/Challenge-Front.git)
+🔗 [Acesse no GitHub]([https://github.com/Challenge-1sem-1TDSPH/Challenge-Front.git](https://github.com/ThiagoMoota/CP2-Chatbot))
 
