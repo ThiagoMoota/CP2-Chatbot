@@ -9,11 +9,10 @@ Criar um chatbot para atendimento digital via Telegram, utilizando IBM Watson As
 
 ## 🔧 Tecnologias Usadas
 
-- **Telegram Bot API**
+- **Bot Telegram **
 - **Node-RED**
 - **IBM Watson Assistant**
-- **Node-RED Contrib Telegrambot**
-- **Watson Assistant V2 API**
+
 
 ---
 
